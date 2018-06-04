@@ -1,4 +1,4 @@
 
-def my_collect(languages)
-  
+def my_collect(array)
+  erray
 end
